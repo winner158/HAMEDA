@@ -1,0 +1,1 @@
+from problems.lecs.problem_lecs import LECS
